@@ -34,6 +34,13 @@ Permainan berakhir saat grid penuh dan tidak ada lagi langkah yang bisa dilakuka
 - Responsif — bisa dimainkan di desktop maupun mobile
 
 ## 🔧 Cara Menjalankan
-1. Clone repositori ini:
-   ```bash
-   git clone https://github.com/rahmayani-maya/Game_2048.git
+
+### 🖥️ Di Komputer Sendiri
+1. Klik tombol hijau **"Code"** → **"Download ZIP"**
+2. Ekstrak file dan buka `index.html` di browser.
+
+### 💾 Untuk Developer
+```bash
+git clone https://github.com/rahmayani-maya/Game_2048.git
+
+NB: Game ini masih jauh dari kesempurnaan, sangat memungkinkan untuk di development kembali 😁
