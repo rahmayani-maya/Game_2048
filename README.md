@@ -36,7 +36,7 @@ Permainan berakhir saat grid penuh dan tidak ada lagi langkah yang bisa dilakuka
 ## 🔧 Cara Menjalankan
 
 ### 🤳 Mainkan Secara Online:
-https://rahmayani-maya.github.io/Game_2048/Game_2048.html
+https://rahmayani-maya.github.io/Game_2048/Game 2048.html
 
 ### 🖥️ Di Komputer Sendiri
 1. Klik tombol hijau **"Code"** → **"Download ZIP"**
