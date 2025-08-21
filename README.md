@@ -1,4 +1,4 @@
-# Game_2048
+# 🧩 Game_2048
 Think, Swipe, Merge, Win - 2048 ✨
 
 Selamat datang di **2048**, permainan puzzle sederhana namun adiktif yang menguji logika dan strategi kamu! Gabungkan ubin bernomor hingga mencapai angka **2048** — atau bahkan lebih tinggi, jika kamu bisa!
@@ -34,6 +34,9 @@ Permainan berakhir saat grid penuh dan tidak ada lagi langkah yang bisa dilakuka
 - Responsif — bisa dimainkan di desktop maupun mobile
 
 ## 🔧 Cara Menjalankan
+
+### 🤳 Mainkan Secara Online:
+https://rahmayani-maya.github.io/Game_2048/Game_2048.html
 
 ### 🖥️ Di Komputer Sendiri
 1. Klik tombol hijau **"Code"** → **"Download ZIP"**
